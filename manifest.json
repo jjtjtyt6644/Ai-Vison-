@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "AI Vision",
+  "name": "Groq Vision AI",
   "version": "1.0.0",
   "description": "AI chat assistant with screen capture powered by Groq",
   "permissions": [
